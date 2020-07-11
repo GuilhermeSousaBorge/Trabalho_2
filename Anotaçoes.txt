@@ -1,1 +1,2 @@
 Nao consegui fazer o trabalho utilizando a api do lol, portanto foi feito usando a api do pokemon.
+Me desculpe.
